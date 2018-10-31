@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: dianarybanska
+Build-Jdk: 10.0.2
+Implementation-Title: webservices
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.dr.soap
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/webservices
+Created-By: Maven Integration for Eclipse
+

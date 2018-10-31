@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetBookDetailResponse xmlns="http://dr.com/books"
+xsi:schemaLocation="http://dr.com/books book-details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BookDetails>
+		<id>1</id>
+		<name>The Last Wish</name>
+		<author>Andrzej Sapkowski</author>
+	</BookDetails>
+</GetBookDetailResponse>
